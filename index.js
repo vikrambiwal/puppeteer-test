@@ -6,7 +6,7 @@ const router = express.Router();
 
 const app = express();
 
-const hostname = "127.0.0.1";
+const hostname = "0.0.0.0";
 const port = 3333;
 let counter = 0;
 
